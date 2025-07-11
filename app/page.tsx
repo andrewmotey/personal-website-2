@@ -218,12 +218,16 @@ export default function Home() {
         <section id="writing" className="py-20 bg-gray-50">
           <div className="container mx-auto px-4">
             <h2 className="text-3xl font-bold mb-12 text-center">Writing</h2>
-            <div className="grid md:grid-cols-3 gap-8">
-              {/* Blog posts will go here */}
+            <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
               <div className="bg-white p-6 rounded-lg shadow-sm">
-                <h3 className="text-xl font-bold mb-2">Media Industry Trends</h3>
-                <p className="text-gray-600 mb-4">Analysis of current trends in the media and entertainment industry.</p>
-                <a href="#" className="text-primary hover:underline">Read More →</a>
+                <h3 className="text-xl font-bold mb-2">The Great Media Merge</h3>
+                <p className="text-gray-600 mb-4">An analysis of the ongoing consolidation in the media and entertainment industry, examining the strategic implications of major mergers and acquisitions reshaping the landscape.</p>
+                <div className="flex gap-4 mt-4">
+                  <a href="/The_Great_Media_Merge_7.10.2025_v2.pdf" download className="text-primary hover:underline flex items-center">
+                    📄 Download PDF
+                  </a>
+                  <span className="text-sm text-gray-500">July 2025</span>
+                </div>
               </div>
             </div>
           </div>

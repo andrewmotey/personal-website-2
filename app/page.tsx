@@ -45,7 +45,7 @@ export default function Home() {
                 <img 
                   src="/images/headshot_Andrew Motey_05.2025.jpg" 
                   alt="Andrew Motey" 
-                  className="w-[400px] h-[600px] object-cover rounded-lg"
+                  className="w-[352px] h-[528px] object-cover rounded-lg"
                 />
               </div>
             </div>

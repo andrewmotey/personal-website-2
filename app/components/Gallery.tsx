@@ -62,6 +62,13 @@ export default function Gallery() {
               className="w-full h-full object-cover rounded-lg"
             />
           </div>
+          <div className="flex-none w-96 h-64">
+            <img 
+              src="/images/headshot.jpg" 
+              alt="Andrew Motey Headshot" 
+              className="w-full h-full object-cover rounded-lg"
+            />
+          </div>
           {/* Duplicate set of images for seamless loop */}
           <div className="flex-none w-96 h-64">
             <img 
@@ -103,6 +110,13 @@ export default function Gallery() {
             <img 
               src="/images/drumming.jpg" 
               alt="Playing drums" 
+              className="w-full h-full object-cover rounded-lg"
+            />
+          </div>
+          <div className="flex-none w-96 h-64">
+            <img 
+              src="/images/headshot.jpg" 
+              alt="Andrew Motey Headshot" 
               className="w-full h-full object-cover rounded-lg"
             />
           </div>

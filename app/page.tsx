@@ -43,7 +43,7 @@ export default function Home() {
               </div>
               <div className="flex justify-center">
                 <img 
-                  src="/images/headshot.jpg" 
+                  src="/images/headshot_Andrew Motey_05.2025.jpg" 
                   alt="Andrew Motey" 
                   className="w-[400px] h-[600px] object-cover rounded-lg"
                 />

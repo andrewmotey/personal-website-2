@@ -67,7 +67,7 @@ export default function Gallery() {
               src="/images/headshot.jpg" 
               alt="Andrew Motey Headshot" 
               className="w-full h-full object-cover rounded-lg"
-              style={{ objectPosition: "center 25%" }}
+              style={{ objectPosition: "center 0%" }}
             />
           </div>
           {/* Duplicate set of images for seamless loop */}
@@ -119,7 +119,7 @@ export default function Gallery() {
               src="/images/headshot.jpg" 
               alt="Andrew Motey Headshot" 
               className="w-full h-full object-cover rounded-lg"
-              style={{ objectPosition: "center 25%" }}
+              style={{ objectPosition: "center 0%" }}
             />
           </div>
         </motion.div>

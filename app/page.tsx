@@ -23,22 +23,28 @@ export default function Home() {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div>
                 <p className="text-gray-600 leading-relaxed mb-6">
-                  I grew up in the Bay Area surrounded by two passions: music and finance. My dad was both a musician and a finance executive in the semiconductor industry, and thanks to him, I picked up the drums at age 10 and joined my high school's investment club a few years later. Though I considered music school, I ultimately chose to attend the University of Michigan with a goal of breaking into the music industry through the business side.
+                  I grew up in the Bay Area surrounded by two passions: music and finance. My father was both a musician and a finance executive in the semiconductor industry, and thanks to him, I picked up the drums at age 10 and joined my high school's investment club a few years later. Though I considered music school, I ultimately chose to attend the University of Michigan with a goal of breaking into the music industry through the business side.
                 </p>
                 <p className="text-gray-600 leading-relaxed mb-6">
                   That path began to take shape after my freshman year, when I joined Primary Wave, a music investment and publishing company that perfectly combined my interests in music and finance. Back on campus, I started producing music with friends who were talented artists, and later formed a jam band with other musicians that played classic rock covers at campus hangouts.
                 </p>
                 <p className="text-gray-600 leading-relaxed mb-6">
-                  The following summer, I explored corporate development through a role at SMART Global Holdings, a semiconductor company — a nod to my roots — and discovered my love for strategic finance and modeling. The following winter, as COVID upended everything, I took on a consulting internship at Microsoft focused on sales strategy for their Education sector, helping grow adoption of Teams in higher ed.
+                  The following summer, I explored corporate development through a role at SMART Global Holdings, a semiconductor company (a nod to my roots) and discovered my love for strategy, financial modeling, and M&A. That following winter, as COVID upended everything, I took on a consulting internship at Microsoft focused on sales strategy for their Education sector, helping grow adoption of Teams in higher education.
                 </p>
                 <p className="text-gray-600 leading-relaxed mb-6">
-                  After graduation from Michigan, I joined the Corporate Strategy team at Sony Music in New York. There, I worked across M&A, venture investments, and strategic planning — eventually joining the newly formed Strategy & Investments group. I collaborated across Sony's global affiliates, evaluated over 100 startups, and led diligence for major acquisitions and immersive initiatives, including artist activations in the metaverse and on-stage at Roblox and Fortnite.
+                  After graduation from Michigan, I joined the Corporate Strategy team at Sony Music in New York. There, I worked across M&A, venture investments, and strategic planning, eventually joining the newly formed Strategy & Investments group. I collaborated across Sony's global affiliates, evaluated over 100 startups, and led financial, technical, and creative diligence for major acquisitions and immersive initiatives, including artist activations in the metaverse and on-stage at Roblox and Fortnite.
                 </p>
                 <p className="text-gray-600 leading-relaxed mb-6">
                   New York also reignited my love for live music. I formed a rock band called Sweet Police, and we now play at bars and venues around the city, including a recurring residency at Arlene's Grocery in the Lower East Side.
                 </p>
+                <p className="text-gray-600 leading-relaxed mb-6">
+                  I'm currently pursuing my MBA at Columbia Business School to build on this foundation, exploring new areas like tech-enabled consumer businesses, venture investing, and strategic operations. Long-term, I'm focused on helping creative businesses grow, whether through strategy, investing, or innovation, and making an impact at the intersection of media, technology, and culture.
+                </p>
+                <p className="text-gray-600 leading-relaxed mb-6">
+                  This summer, I'm interning at Madison Square Garden Entertainment as a Corporate Development Student Associate, where I’m helping identify new markets and development opportunities for Sphere (MSG’s immersive live entertainment venue best known for its Las Vegas location). I’m also evaluating investment opportunities across venture and growth, from sports tech and live entertainment infrastructure to leagues, teams, and emerging platforms. 
+                </p>
                 <p className="text-gray-600 leading-relaxed">
-                  I'm currently pursuing my MBA at Columbia Business School to build on this foundation — exploring new areas like tech-enabled consumer businesses, venture investing, and strategic operations. Long-term, I'm focused on helping creative businesses grow — whether through strategy, investing, or innovation — and making an impact at the intersection of media, technology, and culture.
+                  Coming out of this internship, I’m excited to build on this experience through a venture investing role or as a Chief of Staff at a tech or media-tech startup. Both environments will allow me to meaningfully contribute to a fast-moving team while continuing to sharpen my foundation in the next phase of my career.
                 </p>
               </div>
               <div className="flex justify-center">
